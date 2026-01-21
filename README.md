@@ -235,28 +235,7 @@ Contributions are welcome! Here's how you can help:
 
 ---
 
-## 👥 Team
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://ui-avatars.com/api/?name=Aditya+Patel&background=random&size=100" width="100px;" alt="Aditya"/>
-      <br />
-      <sub><b>Aditya Patel</b></sub>
-      <br />
-      <sub>Developer</sub>
-    </td>
-    <td align="center">
-      <img src="https://ui-avatars.com/api/?name=Narsi+Joshi&background=random&size=100" width="100px;" alt="Narsi"/>
-      <br />
-      <sub><b>Narsi Joshi</b></sub>
-      <br />
-      <sub>Developer</sub>
-    </td>
-  </tr>
-</table>
-
----
 
 ## 📄 License
 
